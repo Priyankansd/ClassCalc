@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="15" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13452" started-at="2019-06-12T16:51:15Z" finished-at="2019-06-12T16:51:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13452" started-at="2019-06-12T16:51:15Z" finished-at="2019-06-12T16:51:28Z">
+      <class name="zClassCalcScnt.testLayer.NumPadFunTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="setUp" is-config="true" duration-ms="6938" started-at="2019-06-12T16:51:15Z" finished-at="2019-06-12T16:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AutoCalculate1Test()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="AutoCalculate1Test" duration-ms="1285" started-at="2019-06-12T16:51:22Z" finished-at="2019-06-12T16:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoCalculate1Test -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="180" started-at="2019-06-12T16:51:23Z" finished-at="2019-06-12T16:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="AutoCalculate2Test()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="AutoCalculate2Test" duration-ms="1284" started-at="2019-06-12T16:51:23Z" finished-at="2019-06-12T16:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoCalculate2Test -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="138" started-at="2019-06-12T16:51:24Z" finished-at="2019-06-12T16:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_EightTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_EightTest" duration-ms="205" started-at="2019-06-12T16:51:24Z" finished-at="2019-06-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_EightTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="93" started-at="2019-06-12T16:51:25Z" finished-at="2019-06-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_FiveTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_FiveTest" duration-ms="215" started-at="2019-06-12T16:51:25Z" finished-at="2019-06-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_FiveTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="139" started-at="2019-06-12T16:51:25Z" finished-at="2019-06-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_FourTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_FourTest" duration-ms="176" started-at="2019-06-12T16:51:25Z" finished-at="2019-06-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_FourTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="126" started-at="2019-06-12T16:51:25Z" finished-at="2019-06-12T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_NineTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_NineTest" duration-ms="217" started-at="2019-06-12T16:51:25Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_NineTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="125" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_OneTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_OneTest" duration-ms="188" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_OneTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="121" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_SevenTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_SevenTest" duration-ms="143" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_SevenTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="87" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_SixTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_SixTest" duration-ms="148" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_SixTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="87" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_SqRtTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_SqRtTest" duration-ms="166" started-at="2019-06-12T16:51:26Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_SqRtTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="100" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_ThreeTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_ThreeTest" duration-ms="125" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_ThreeTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="100" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="btn_TwoTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="btn_TwoTest" duration-ms="130" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btn_TwoTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="77" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="numPadTitleTest()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="numPadTitleTest" duration-ms="6" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numPadTitleTest -->
+        <test-method status="PASS" signature="clearEntries()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="clearEntries" is-config="true" duration-ms="80" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearEntries -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:zClassCalcScnt.testLayer.NumPadFunTest@21213b92]" name="tearDown" is-config="true" duration-ms="723" started-at="2019-06-12T16:51:27Z" finished-at="2019-06-12T16:51:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- zClassCalcScnt.testLayer.NumPadFunTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
